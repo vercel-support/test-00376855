@@ -1,5 +1,8 @@
 # test Hono deployment
 
+Test here:
+https://test-00376855.preview.vercel-support.app/api
+
 ```
 pnpm install
 pnpm run start
